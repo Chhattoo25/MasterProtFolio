@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>chhavi srivastva</h3>
+          <h3>Chhatrapal Ahirwar</h3>
         </Col>
         <Col md="4" className="footer-copywright">
      
@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/chhavi48"
+                href="https://github.com/Chhattoo25"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/@srivastavchhavi"
+                href="https://twitter.com/ChhatrapalAhir3"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/chhavisrivastva"
+                href="https://www.linkedin.com/in/chhatrapal-ahirwar25825/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

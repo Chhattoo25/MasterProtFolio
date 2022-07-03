@@ -20,7 +20,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
             <h4 className='aboutdata'>Full Stack Web-developer</h4>
-                     <p className='para'>Hello 👋👋 Eveyone I am Chhatrapal Ahirwar From Chhatarpur,Madhya Pradesh. Currently  I am a student of MASAI SCHOOL.<br></br>
+                     <p className='para'>Hello 👋👋 Everyone I am Chhatrapal Ahirwar From Chhatarpur,Madhya Pradesh. Currently  I am a student of MASAI SCHOOL.<br></br>
                      Analytical and detail-oriented Full Stack Web Developer <br></br>who is proficient with the MERN stack and good at user-centric solutions.<br></br> Collaborative, team player, and proficient in working with interdisciplinary teams and executing goal-oriented projects.<br></br> Strongly interested in obtaining a Software Developer position to work on enhancing the product 
                          
 </p>
